@@ -24,7 +24,7 @@ def run():
     st.title('Aplikasi Prediksi Sentimen Post (Tweet) Pengguna Twitter')
 
     # Membuat sub header
-    st.subheader('Page ini berisi Exploratory Data Analysis (EDA) mengenai dataset Post (Tweet) Pengguna Twitter sampai dengan Tahun 2017')
+    st.subheader('Halaman ini berisi Exploratory Data Analysis (EDA) mengenai dataset Post (Tweet) Pengguna Twitter sampai dengan Tahun 2017')
 
     # Menampilkan teks
     st.write('Proyek ini dibuat untuk melakukan analisa sentimen pengguna berdasarkan dari post (tweet) dari pengguna sosial media di Twitter (X) pada tahun 2017 menggunakan model machine learning. Dataset diambil dari website Kaggle mengenai sentimen Tweet dalam bahasa Inggris.')
