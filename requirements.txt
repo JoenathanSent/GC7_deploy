@@ -9,3 +9,4 @@ tensorflow==2.21.0
 tensorflow-hub==0.16.1
 tf_keras==2.21.0
 tokenizers==0.22.2
+setuptools==80.9.0
