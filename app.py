@@ -3,7 +3,7 @@ import eda
 import inference
 
 st.set_page_config(
-    page_title='Tweet Sentiments',
+    page_title='Tweet Sentimentsgit a',
     layout='wide',
     initial_sidebar_state='expanded'
 )
